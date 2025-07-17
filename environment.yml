@@ -1,8 +1,10 @@
-name:stats-env
+name: 7030_class_python
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - python=3.10
+  - ipykernel
   - jupyterlab
+prefix: /users/PAS2797/ilmini2de/.conda/envs/7030_class_python
