@@ -1,5 +1,5 @@
 # Assignment4-Stats-Scripts
-This repository contains a Jupyter notebook that walks through statistical analysis in Python, based on exercises from the SciPy Lecture Notes. The goal is to practice applying common statistical and plotting techniques that will be useful in future data analysis labs.
+This repository contains a Jupyter notebook that walks through statistical analysis in Python, based on exercises from the SciPy Lecture Notes.Using common statistical and plotting techniques that will be useful in future data analysis labs.
 ## Source
 Tutorial followed:
 https://scipy-lectures.org/packages/statistics/index.html
